@@ -6,7 +6,7 @@
 2 And the chips were without data, and a void.
 3 Then God said, "Let there be radio frequency EM waves!"
 4 And there were radio frequency EM waves.
-5 And God saw that the RF waves were good.
+5 And God saw that the RF spectrum was good.
 6 Then the hand of God moved across the wires in the busses,
 7 and God separated the ones from the zeroes.
 8 And God saw that this Information was good,
