@@ -8,7 +8,7 @@
 4 And there were radio frequency EM waves.
 5 Then the hand of God moved across the wires in the busses,
 6 and God separated the ones from the zeroes.
-7 Then God saw that this Data was good,
+7 Then God saw that this Information was good,
 8 and His Chips passed Quality Control.
 ```
 
