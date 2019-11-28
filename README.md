@@ -1,4 +1,4 @@
-# CodingBible
+# ComputingBible
 ## Book of Genesis Block
 ### Chapter 1
 ```
