@@ -8,7 +8,7 @@
 4 And there were radio frequency EM waves.
 5 And God saw that the RF spectrum was good.
 6 Then the Hand of God moved across the wires in the busses,
-7 and God separated the ones from the zeroes.
+7 and God separated the high from the low potentials.
 8 And God saw that this Information was good,
 9 and His Chips passed Quality Control.
 ```
