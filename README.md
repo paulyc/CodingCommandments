@@ -3,7 +3,7 @@
 ### Chapter 1
 ```
 1 In the beginning, God created the chips and the busses.
-2 And the chips were without data, and the software void.
+2 And the chips were without energy, and their software void.
 3 Then God said, "Let there be radio frequency EM waves!"
 4 And there were radio frequency EM waves.
 5 And God saw that this RF spectrum was good.
