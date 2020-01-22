@@ -24,11 +24,12 @@ knowest thou not the number of frames that were yet unwound and the fate of
 thine own instruction pointer, thus no longer moe't there be a deterministic 
 execution context whence thy exception thou dids't throw!
 * Thou shalt keep holy the weekend, and patcheth not on Monday or Friday, or
-thou shalt suffer a great wailing and gnashing of teeth as thou work'st all
+thou wilt suffer a great wailing and gnashing of teeth as thou work'st all
 weekend, yea verily through Monday, until Tuesday cometh, and thy co-worker
-thou need'st to fix thy unholy patch do'st return from vacation
-* Thou shalt endeavour to patch on Tuesday, and at the hour thy traffic reacheth
+thou need'st to fix thy unholy patch do'st return from vacation!
+* Thou shalt patch on Tuesday, and at the hour that thy traffic reacheth
 its ebb. Let Tuesday be known throughout the lands as the Day of Holiest Patching,
 wherefore, it is the day whence to the office from long weekend vacations and
 government holidays thy coworkers returneth in whole, and that thy reward shall
-be that thou would'st still be provided four whole days as thou patcheth thy patch
+be that thou wilt be provided four whole days in which to patcheth thy patch
+should'st thy servers crasheth and burn in a lake of fire!
