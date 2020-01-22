@@ -9,8 +9,8 @@
 5 And God saw that this RF spectrum was good.
 6 Then the Hand of God moved across the Wires in the Busses,
 7 And God separated the High from the Low Potentials.
-8 And God saw that this Information was good and in Parity,
-9 And that His Chips had passed Quality Control
+8 And God saw that this Information was good, and in Parity,
+9 Such that His Chips had passed Quality Control
 ```
 
 ## Book of TeXoDuS
