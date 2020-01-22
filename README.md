@@ -32,5 +32,5 @@ its ebb. Let Tuesday be known throughout the lands as the Day of Holiest Patchin
 wherefore, it is the day whence to the office from long weekend vacations and
 government holidays thy coworkers returneth in whole, and that thy reward shall
 be that thou wilt be provided four whole days in which to patcheth thy patch
-should'st thy servers crasheth and burn in the Lake of Fire, yea, justly as
+should'st thy servers crasheth and burn'st in the Lake of Fire, yea, justly as
 Punishment for the Sins of Thine Engineering Management!
