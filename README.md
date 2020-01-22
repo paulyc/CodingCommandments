@@ -26,7 +26,7 @@ execution context whence thy exception thou dids't throw!
 * Thou shalt keep holy the weekend, and patcheth not on Monday or Friday, or
 thou wilt suffer a great wailing and gnashing of teeth as thou work'st all
 weekend, yea verily through Monday, until Tuesday cometh, and thy co-worker
-thou need'st to fix thy unholy patch do'st return from vacation!
+thou need'st to fix thy unholy patch from vacation do'st return!
 * Thou shalt patch on Tuesday, and at the hour that thy traffic reacheth
 its ebb. Let Tuesday be known throughout the lands as the Day of Holiest Patching,
 wherefore, it is the day whence to the office from long weekend vacations and
