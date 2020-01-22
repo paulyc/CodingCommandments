@@ -10,7 +10,7 @@
 6 Then the Hand of God moved across the wires in the busses,
 7 And God separated the high from the low potentials.
 8 And God saw that this Information was good,
-9 And that His Chips had Passed Quality Control.
+9 And that His Chips had passed Quality Control.
 ```
 
 ## Book of TeXoDuS
