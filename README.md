@@ -3,14 +3,14 @@
 ### Chapter 1
 ```
 1 In the beginning, God created the chips and the busses.
-2 And the chips were without data, and a void.
+2 And the chips were without data, and the software void.
 3 Then God said, "Let there be radio frequency EM waves!"
 4 And there were radio frequency EM waves.
-5 And God saw that the RF spectrum was good.
+5 And God saw that this RF spectrum was good.
 6 Then the Hand of God moved across the wires in the busses,
-7 and God separated the high from the low potentials.
+7 And God separated the high from the low potentials.
 8 And God saw that this Information was good,
-9 and His Chips passed Quality Control.
+9 And that His Chips had Passed Quality Control.
 ```
 
 ## Book of TeXoDuS
