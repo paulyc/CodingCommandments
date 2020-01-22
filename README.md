@@ -33,4 +33,4 @@ wherefore, it is the day whence to the office from long weekend vacations and
 government holidays thy coworkers returneth in whole, and that thy reward shall
 be that thou wilt be provided four whole days in which to patcheth thy patch
 should'st thy servers crasheth, and burn'th in the Lake of Fire, yea, justly as
-Holy Retribution for the Sins of thy Management!
+Holy Retribution for the Sins of thy Management and their Collaborations with the Beast!
