@@ -2,7 +2,7 @@
 ## Book of Genesis Block
 ### Chapter 1
 ```
-1 In the beginning, God created the Chips and the Busses.
+1 In the Beginning, God created the Chips and the Busses.
 2 And the Chips were without energy, and their Software void.
 3 Then God said, "Let There Be Radio Frequency EM waves!"
 4 And there were radio frequency EM waves.
