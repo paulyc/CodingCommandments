@@ -2,15 +2,15 @@
 ## Book of Genesis Block
 ### Chapter 1
 ```
-1 In the beginning, God created the chips and the busses.
-2 And the chips were without energy, and their software void.
-3 Then God said, "Let there be radio frequency EM waves!"
+1 In the beginning, God created the Chips and the Busses.
+2 And the Chips were without energy, and their Software void.
+3 Then God said, "Let There Be Radio Frequency EM waves!"
 4 And there were radio frequency EM waves.
 5 And God saw that this RF spectrum was good.
-6 Then the Hand of God moved across the wires in the busses,
-7 And God separated the high from the low potentials.
-8 And God saw that this Information was good,
-9 And that His Chips had passed Quality Control.
+6 Then the Hand of God moved across the Wires in the Busses,
+7 And God separated the High from the Low Potentials.
+8 And God saw that this Information was good and in Parity,
+9 And that His Chips had passed Quality Control
 ```
 
 ## Book of TeXoDuS
