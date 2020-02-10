@@ -30,8 +30,9 @@ thou need'st to fix thy unholy patch from vacation do'st return!
 * Thou shalt patch on Tuesday, and at the hour that thy traffic reacheth
 its ebb. Let Tuesday be known throughout the lands as the Day of Holiest Patching,
 wherefore, it is the day whence to the office from long weekend vacations and
-government holidays thy coworkers returneth in whole, and that thy reward shall
+government holidays thy coworkers returneth in whole, and #that thy reward shall
 be that thou wilt be provided four whole days in which to patcheth thy patch
 should'st thy servers crasheth, and burn'th in the Lake of Fire, yea, justly as
 Holy Retribution for the Sins of thy Management and the frequency of their
 Collaborations with the Beast!
+* Thou shalt not #undef. Follow the way of the wise authors of GCC who included no equivalent command line argument
