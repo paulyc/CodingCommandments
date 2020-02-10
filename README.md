@@ -35,5 +35,5 @@ be that thou wilt be provided four whole days in which to patcheth thy patch
 should'st thy servers crasheth, and burn'th in the Lake of Fire, yea, justly as
 Holy Retribution for the Sins of thy Management and the frequency of their
 Collaborations with the Beast!
-* Thou shalt not #undef. Follow the way of the wise authors of GCC who included no equivalent command line flag.
+* Thou shalt not #undef in vain. Follow the way of the wise authors of GCC who included no equivalent command line flag.
 
